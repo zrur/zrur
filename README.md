@@ -1,4 +1,4 @@
-### Hi there 👋
+### Umas linguagens que mais uso 
 
 <!--
 **zrur/zrur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
