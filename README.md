@@ -3,7 +3,7 @@
 # 👋 Olá! Eu sou o Arthur
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.  
-💻 Desenvolvedor com experiência em React, Next.js, Java, e Python.  
+💻 Desenvolvedor com experiência em React, Next.js, Java e Typescript
 🌱 Atualmente estudando Machine Learning e Segurança da Informação.
 
 ---
