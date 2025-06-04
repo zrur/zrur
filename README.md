@@ -91,11 +91,16 @@
 
 ## 🎯 Áreas de Interesse
 
+* **💡 Desenvolvimento Full-Stack** - Web, APIs e aplicações completas
 * **🤖 IoT e Automação** - Sensores, ESP32, MQTT
 * **🌱 Sustentabilidade Tech** - Soluções para o meio ambiente
 * **🔒 Segurança da Informação** - Boas práticas e criptografia
 * **🧠 Machine Learning** - Aplicações práticas com Python
 * **☁️ Cloud Computing** - Docker e arquiteturas escaláveis
+* **🚀 DevOps** - Integração contínua, pipelines e automação
+* **📱 Aplicações Mobile** - React Native e Expo
+* **🛠 Arquitetura de Software** - Clean Architecture, Domain-Driven Design
+* **🧰 Qualquer área dentro da TI que envolva desafios e aprendizado contínuo**
 
 ---
 
@@ -108,8 +113,8 @@
 
 ## 📫 Como me encontrar
 
-* **💼 LinkedIn**: [Arthur Developer]([https://linkedin.com/in/arthur-dev](https://www.linkedin.com/in/arthur-ramos-dos-santos-689a30230/))
-* **📧 Email**: [arthur.dev@email.com](mailto:arthuramossan@gmail.com)
+* **💼 LinkedIn**: [Arthur Ramos Dos Santos]([https://linkedin.com/in/arthur-dev](https://www.linkedin.com/in/arthur-ramos-dos-santos-689a30230/))
+* **📧 Email**: [arthuramossan@gmail.com](mailto:arthuramossan@gmail.com)
 * **🐙 GitHub**: [@zrur](https://github.com/zrur)
 * **🌐 Portfolio**: \[em desenvolvimento]
 
@@ -117,7 +122,6 @@
 
 <div align="center">
 
-### 💡 "Transformar ideias em soluções tecnológicas que impactam positivamente o mundo!"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zrur\&color=blue\&style=flat-square)
 
