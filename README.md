@@ -61,4 +61,3 @@ Identity Security · Cloud & DevOps · Arquitetura de Software · IoT · Machine
 
 ---
 
-✅ **Pronto!** Profissional mas com personalidade. Bora aplicar na SEC4U agora? 🚀
