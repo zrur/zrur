@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou o Arthur
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na FIAP
-💻 **Desenvolvedor Full-Stack** com experiência em React, Next.js, .NET, TypeScript e Java
-🌱 **Atualmente estudando** Machine Learning, DevOps, Segurança da Informação e Arquitetura de Software
-🚀 **Especializado em** soluções IoT, APIs escaláveis e sistemas inteligentes
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela FIAP  
+📚 **Pós-graduando em DevOps** (previsão: janeiro/2027)  
+💻 **Desenvolvedor Full-Stack** com experiência em React, Next.js, .NET, TypeScript e Java  
+🔒 **Background em Cybersecurity** com experiência em análise de vulnerabilidades  
+🚀 **Especializado em** soluções IoT, APIs escaláveis, autenticação e sistemas inteligentes
 
 ---
 
@@ -11,7 +12,7 @@
 
 ### **Linguagens de Programação**
 
-* **C#** - Desenvolvimento de APIs REST com .NET 8 e Clean Architecture
+* **C#** - Desenvolvimento de APIs REST com .NET 8, Clean Architecture e autenticação JWT
 * **Java** - APIs REST com JAX-RS e aplicações enterprise
 * **TypeScript/JavaScript** - SPAs com React e Next.js
 * **Python** - Scripts de automação e modelos de ML
@@ -19,7 +20,7 @@
 
 ### **Frameworks e Bibliotecas**
 
-* **ASP.NET Core** - APIs REST, Razor Pages e TagHelpers
+* **ASP.NET Core** - APIs REST, autenticação, Razor Pages e TagHelpers
 * **Entity Framework Core** - ORM com Migrations e Fluent API
 * **React / Next.js** - SPAs com TailwindCSS e componentização
 * **JAX-RS (Java)** - APIs com Jakarta EE
@@ -28,7 +29,7 @@
 
 ### **Banco de Dados**
 
-* **SQL Server** - Banco relacional com relacionamentos 1\:N
+* **SQL Server** - Banco relacional com relacionamentos 1:N
 * **SQLite** - Banco leve para desenvolvimento
 * **MySQL** - Soluções web escaláveis
 * **Oracle SQL Developer** - Modelos enterprise integrados com Java
@@ -37,14 +38,30 @@
 
 * **Git/GitHub** - Versionamento e colaboração
 * **Docker** - Containerização e deploy com imagens customizadas
+* **Azure** - Deploy de aplicações e infraestrutura cloud
 * **Linux** - Shell scripting e deploy de aplicações
 * **Swagger/OpenAPI** - Documentação interativa de APIs
 * **MQTT com ESP32** - Comunicação IoT eficiente
-* **DevOps** - Integração e entrega contínua (CI/CD)
+* **CI/CD** - Integração e entrega contínua (GitHub Actions)
 
 ---
 
 ## 🚀 Projetos Destacados
+
+### 🔐 **HelpLink - Plataforma de Doações**
+
+* **Tecnologias**: .NET 8, Entity Framework Core, JWT Authentication, SQL Server
+* **Arquitetura**: Clean Architecture, Repository Pattern, Service Layer
+* **Funcionalidades**: API REST completa, autenticação segura, gestão de doações
+* **Destaque**: Sistema de autenticação e autorização robusto
+* 🔗 [Ver Repositório](https://github.com/zrur/HelpLink)
+
+### 🏍️ **MotoTrack - Sistema de Rastreamento**
+
+* **Tecnologias**: .NET, React Native, APIs REST
+* **Funcionalidades**: Rastreamento de motocicletas, alertas e monitoramento
+* **Destaque**: Integração mobile com backend robusto
+* 🔗 [Ver Repositório](https://github.com/zrur/MotoTrack)
 
 ### 💧 **AquaMind - Sistema de Irrigação Inteligente**
 
@@ -54,29 +71,19 @@
 * **Diferencial**: Solução sustentável para pequenos produtores
 * 🔗 [Ver Repositório](https://github.com/zrur/AquaMind)
 
-### 📱 **Aplicativo Challenge - Entrega Inteligente**
-
-* **Tecnologias**: React Native, Expo, TypeScript
-* **Funcionalidades**: Monitoramento de entregas e gestão de pátio
-* **Destaque**: Aplicativo completo com navegação e armazenamento local
-
-### 🧮 **Calculadora de Média Ponderada**
-
-* **Tecnologias**: HTML, CSS, JavaScript
-* **Descrição**: Site responsivo para cálculo automático de médias ponderadas
-* **Aplicação**: Ferramenta acadêmica útil para estudantes
-
 ### 🧩 **API REST .NET + DevOps**
 
-* **Tecnologias**: ASP.NET Core, Docker, CI/CD, Swagger
-* **Funcionalidades**: Autenticação, CRUDs completos, documentação e testes
+* **Tecnologias**: ASP.NET Core, Docker, CI/CD, Swagger, Azure
+* **Funcionalidades**: Autenticação JWT, CRUDs completos, documentação e testes
 * **DevOps**: Pipeline de build e deploy com GitHub Actions
+* **Infraestrutura**: Deploy automatizado em Azure
 
 ### 💼 **Outros Projetos**
 
-* **APIs REST** com Java e C#
+* **APIs REST** com Java e C# com autenticação e autorização
 * **Sistemas Web** com React, Next.js e Tailwind
-* **Projetos acadêmicos premiados** (Global Solution, Desafio Porto)
+* **Projetos IoT** com ESP32, Arduino e sensores
+* **Aplicativos Mobile** com React Native e Expo
 
 ---
 
@@ -92,38 +99,43 @@
 ## 🎯 Áreas de Interesse
 
 * **💡 Desenvolvimento Full-Stack** - Web, APIs e aplicações completas
+* **🔒 Identity Security** - Autenticação, autorização, OAuth, SAML, LDAP
+* **🛡️ Cybersecurity** - Análise de vulnerabilidades e resposta a incidentes
 * **🤖 IoT e Automação** - Sensores, ESP32, MQTT
-* **🌱 Sustentabilidade Tech** - Soluções para o meio ambiente
-* **🔒 Segurança da Informação** - Boas práticas e criptografia
+* **☁️ Cloud Computing & DevOps** - Docker, CI/CD, Azure, infraestrutura como código
 * **🧠 Machine Learning** - Aplicações práticas com Python
-* **☁️ Cloud Computing** - Docker e arquiteturas escaláveis
-* **🚀 DevOps** - Integração contínua, pipelines e automação
 * **📱 Aplicações Mobile** - React Native e Expo
 * **🛠 Arquitetura de Software** - Clean Architecture, Domain-Driven Design
 * **🧰 Qualquer área dentro da TI que envolva desafios e aprendizado contínuo**
 
 ---
 
+## 💼 Experiência Profissional
+
+* **🔒 Cybersecurity** - Credsystem (Análise de vulnerabilidades e resposta a incidentes)
+* **📦 Logística & Operações** - Mercado Livre (Gestão operacional e coordenação)
+
+---
+
 ## 📚 Formação e Certificações
 
-* **🎓 Análise e Desenvolvimento de Sistemas** - FIAP (em andamento)
+* **🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas** - FIAP (Concluído - 2025)
+* **🚀 Pós-graduação em DevOps** - Em andamento (Conclusão: Janeiro/2027)
 * **📜 Certificações** (em andamento: AWS, Oracle, Microsoft)
 
 ---
 
 ## 📫 Como me encontrar
 
-* **💼 LinkedIn**: [Arthur Ramos Dos Santos]([https://linkedin.com/in/arthur-dev](https://www.linkedin.com/in/arthur-ramos-dos-santos-689a30230/))
+* **💼 LinkedIn**: [Arthur Ramos dos Santos](https://www.linkedin.com/in/arthur-ramos-dos-santos/)
 * **📧 Email**: [arthuramossan@gmail.com](mailto:arthuramossan@gmail.com)
 * **🐙 GitHub**: [@zrur](https://github.com/zrur)
-* **🌐 Portfolio**: \[em desenvolvimento]
 
 ---
 
 <div align="center">
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=zrur\&color=blue\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zrur&color=blue&style=flat-square)
 
 </div>
 
@@ -131,16 +143,26 @@
 
 ## 🏆 Conquistas Recentes
 
+* ✅ **Formado em ADS** - FIAP com destaque acadêmico
+* ✅ **HelpLink & MotoTrack** - Projetos full-stack com autenticação robusta
 * ✅ **AquaMind** - API REST, Clean Architecture e SignalR
-* ✅ **IrrigaFácil** - Solução IoT com ESP32 e MQTT
-* ✅ **Deploy com Docker** - Containers para aplicações .NET
+* ✅ **Deploy com Docker & Azure** - Containers e infraestrutura cloud
 * ✅ **Documentação Swagger** - APIs com interface gráfica
-* ✅ **Aplicativo Mobile Completo** - React Native com funcionalidades offline
-* ✅ **Site de Calculadora Acadêmica** - Interface intuitiva e aplicação prática
-* ✅ **DevOps com GitHub Actions** - CI/CD em projeto .NET
+* ✅ **DevOps com GitHub Actions** - CI/CD em projetos .NET
+* ✅ **Background em Cybersecurity** - Experiência em análise de vulnerabilidades
 
 ---
 
 <div align="center">
-  <strong>🚀 Em constante evolução para transformar tecnologia em impacto real! 🚀</strong>
+  <strong>🚀 Transformando código em soluções seguras e escaláveis! 🚀</strong>
 </div>
+
+---
+
+**Principais mudanças:**
+- ✅ Status de formado + pós em andamento
+- ✅ Adicionado background cybersecurity
+- ✅ Destaque para autenticação/segurança nos projetos
+- ✅ Experiência profissional incluída
+- ✅ Identity Security nas áreas de interesse
+- ✅ Links atualizados
